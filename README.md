@@ -6,7 +6,7 @@
 
 <p align="left">
   💻 Linguagens e Ferramentas: </br>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQk3EWWU2_AWU05cesPqgdbCDX-7NKKIHGOg&usqp=CAU" style=style="max-width:100%"/></a>
+  <code><img height="25" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQk3EWWU2_AWU05cesPqgdbCDX-7NKKIHGOg&usqp=CAU" style=style="max-width:100%"/></a>
   <img src="https://dwglogo.com/wp-content/uploads/2017/12/Spring_Framework_logo_01.png" style="width: 95px;top: 79px;position: absolute;left: 24px;"/></a>
   <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" style="width: 95px;top: 95px;position: absolute;left: 100px;"/></a>
   <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/docker-logo.png" style="width: 71px;top: 77px;position: absolute;left: 195px;"/></a>
