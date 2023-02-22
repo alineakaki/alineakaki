@@ -1,6 +1,6 @@
 <p align="left"> 
  <h3> Hi, I'm Aline! 🙃👋</h3> </br>
- 👩‍💻 I'm Systems Analyst, my main stack is Java and sometimes I venture into other languages like Node.js 
+ 👩‍💻 I'm a Tech Lead and Software Engineer. My main stack is Java and sometimes I venture into other languages like Node.js and React. :)
 </p>
 
 ⚡ Skills:
